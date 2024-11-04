@@ -1,0 +1,14 @@
+C:\Users\suhajda.zsolt\Desktop\11.04\bin\Debug\net8.0\11.04..exe
+C:\Users\suhajda.zsolt\Desktop\11.04\bin\Debug\net8.0\11.04..deps.json
+C:\Users\suhajda.zsolt\Desktop\11.04\bin\Debug\net8.0\11.04..runtimeconfig.json
+C:\Users\suhajda.zsolt\Desktop\11.04\bin\Debug\net8.0\11.04..dll
+C:\Users\suhajda.zsolt\Desktop\11.04\bin\Debug\net8.0\11.04..pdb
+C:\Users\suhajda.zsolt\Desktop\11.04\obj\Debug\net8.0\11.04..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suhajda.zsolt\Desktop\11.04\obj\Debug\net8.0\11.04..AssemblyInfoInputs.cache
+C:\Users\suhajda.zsolt\Desktop\11.04\obj\Debug\net8.0\11.04..AssemblyInfo.cs
+C:\Users\suhajda.zsolt\Desktop\11.04\obj\Debug\net8.0\11.04..csproj.CoreCompileInputs.cache
+C:\Users\suhajda.zsolt\Desktop\11.04\obj\Debug\net8.0\11.04..dll
+C:\Users\suhajda.zsolt\Desktop\11.04\obj\Debug\net8.0\refint\11.04..dll
+C:\Users\suhajda.zsolt\Desktop\11.04\obj\Debug\net8.0\11.04..pdb
+C:\Users\suhajda.zsolt\Desktop\11.04\obj\Debug\net8.0\11.04..genruntimeconfig.cache
+C:\Users\suhajda.zsolt\Desktop\11.04\obj\Debug\net8.0\ref\11.04..dll
